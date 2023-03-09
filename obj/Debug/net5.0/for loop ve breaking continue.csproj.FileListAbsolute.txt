@@ -1,0 +1,16 @@
+C:\Users\Kadir\for loop ve breaking continue\bin\Debug\net5.0\for loop ve breaking continue.exe
+C:\Users\Kadir\for loop ve breaking continue\bin\Debug\net5.0\for loop ve breaking continue.deps.json
+C:\Users\Kadir\for loop ve breaking continue\bin\Debug\net5.0\for loop ve breaking continue.runtimeconfig.json
+C:\Users\Kadir\for loop ve breaking continue\bin\Debug\net5.0\for loop ve breaking continue.runtimeconfig.dev.json
+C:\Users\Kadir\for loop ve breaking continue\bin\Debug\net5.0\for loop ve breaking continue.dll
+C:\Users\Kadir\for loop ve breaking continue\bin\Debug\net5.0\ref\for loop ve breaking continue.dll
+C:\Users\Kadir\for loop ve breaking continue\bin\Debug\net5.0\for loop ve breaking continue.pdb
+C:\Users\Kadir\for loop ve breaking continue\obj\Debug\net5.0\for loop ve breaking continue.csproj.AssemblyReference.cache
+C:\Users\Kadir\for loop ve breaking continue\obj\Debug\net5.0\for loop ve breaking continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kadir\for loop ve breaking continue\obj\Debug\net5.0\for loop ve breaking continue.AssemblyInfoInputs.cache
+C:\Users\Kadir\for loop ve breaking continue\obj\Debug\net5.0\for loop ve breaking continue.AssemblyInfo.cs
+C:\Users\Kadir\for loop ve breaking continue\obj\Debug\net5.0\for loop ve breaking continue.csproj.CoreCompileInputs.cache
+C:\Users\Kadir\for loop ve breaking continue\obj\Debug\net5.0\for loop ve breaking continue.dll
+C:\Users\Kadir\for loop ve breaking continue\obj\Debug\net5.0\ref\for loop ve breaking continue.dll
+C:\Users\Kadir\for loop ve breaking continue\obj\Debug\net5.0\for loop ve breaking continue.pdb
+C:\Users\Kadir\for loop ve breaking continue\obj\Debug\net5.0\for loop ve breaking continue.genruntimeconfig.cache
